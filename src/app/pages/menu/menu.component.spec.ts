@@ -1,7 +1,7 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
+import { OrderDetailsService } from 'src/app/services/order-details.service';
 
 import { MenuComponent } from './menu.component';
-
 describe('MenuComponent', () => {
   let component: MenuComponent;
   let fixture: ComponentFixture<MenuComponent>;
