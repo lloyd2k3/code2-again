@@ -62,7 +62,7 @@ export class OrderDetailsService {
     foodName:"ngọc anh chưa lớn",
     foodDetails:"nhóc",
     foodPrice:0,
-    foodImg:"https://www.facebook.com/photo/?fbid=1508758209566895&set=a.115078152268248&__cft__[0]=AZX3P5aRsI2l7cqx4m6w-08v3TOSOY0z6LEGAsCdItOqGpBhBP4QfqaS41ge8OIjLAdHg5TNAvNoNjV_sVF8w1Q3vO8xxabqtbBB3djTthfUf9du03d33xe3kVMgVGDNaVyuvCtqj-vNaVwQmWTG8ixgTTiZPH3bxMHnDGyhKgc8gQ&__tn__=~H-R"
+    foodImg:"https://scontent.fhan5-2.fna.fbcdn.net/v/t39.30808-6/309096818_1508758206233562_6201695974180646736_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=_LL9aO4TyuUAX8mD82-&_nc_ht=scontent.fhan5-2.fna&oh=00_AT_ARTspQcL_Z3dQ7zU6wnhYflXbyxd5_lMJvZOYReEDcw&oe=6342C899"
   },
 
  ]
