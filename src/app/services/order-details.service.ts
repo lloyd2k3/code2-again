@@ -59,10 +59,10 @@ export class OrderDetailsService {
   },
   {
     id:8,
-    foodName:"haiphongboiz",
-    foodDetails:"haiphongboiz.",
+    foodName:"ngọc anh chưa lớn",
+    foodDetails:"nhóc",
     foodPrice:0,
-    foodImg:"https://scontent.xx.fbcdn.net/v/t1.15752-9/309385304_830319547962352_530606041153401934_n.jpg?stp=dst-jpg_s206x206&_nc_cat=103&ccb=1-7&_nc_sid=aee45a&_nc_ohc=JMVCzqQ_8ioAX9i_zV1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJI3Evte1xaCrc4szSh1eOdA1My68Llv95XrEiWrVEjxg&oe=635D80A0"
+    foodImg:"https://www.facebook.com/photo/?fbid=1508758209566895&set=a.115078152268248&__cft__[0]=AZX3P5aRsI2l7cqx4m6w-08v3TOSOY0z6LEGAsCdItOqGpBhBP4QfqaS41ge8OIjLAdHg5TNAvNoNjV_sVF8w1Q3vO8xxabqtbBB3djTthfUf9du03d33xe3kVMgVGDNaVyuvCtqj-vNaVwQmWTG8ixgTTiZPH3bxMHnDGyhKgc8gQ&__tn__=~H-R"
   },
 
  ]
